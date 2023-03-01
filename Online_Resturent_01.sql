@@ -1,0 +1,1 @@
+SELECT * FROM online_resturent.foods;
